@@ -28,6 +28,11 @@
 	- [Day 3](http://webdesign.tutsplus.com/tutorials/complete-websites/create-a-sleek-corporate-web-design-hd-video-series-day-3/)
 	- [Day 4](http://webdesign.tutsplus.com/tutorials/complete-websites/create-a-sleek-corporate-web-design-hd-video-series-day-4/) 
 
+## Tentang UI dan UX ##
+
+- UX : [http://uxapprentice.com](http://uxapprentice.com)
+- UI : [http://goodui.org](http://goodui.org)
+
 
 **Ebook**
 
