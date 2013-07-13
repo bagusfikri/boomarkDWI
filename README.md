@@ -62,4 +62,8 @@
 	- Designmodo : [Flat Free UI](http://designmodo.com/flat-free/)  
 	- Free Button UI : [http://bit.ly/11etR68](http://bit.ly/11etR68)
 
+-------
+
+- Long shadow generator : [http://codepen.io/awesomephant/pen/mAxHz](http://codepen.io/awesomephant/pen/mAxHz "Link")
+
 sabar ya tiap hari ditambah teruuuus~
