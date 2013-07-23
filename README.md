@@ -31,6 +31,16 @@
 	- [Day 3](http://webdesign.tutsplus.com/tutorials/complete-websites/create-a-sleek-corporate-web-design-hd-video-series-day-3/)
 	- [Day 4](http://webdesign.tutsplus.com/tutorials/complete-websites/create-a-sleek-corporate-web-design-hd-video-series-day-4/) 
 
+** jQuery**
+- VIDEO - 30 days learning jQuery from tutsplus : [http://learnjquery.tutsplus.com/](http://learnjquery.tutsplus.com/)
+- VIDEO - try jQuery from codeschool : [http://www.codeschool.com/courses/try-jquery](http://www.codeschool.com/courses/try-jquery)
+- VIDEO -learn jQuery from appendto : [http://learn.appendto.com/](http://learn.appendto.com/)
+- video - jQuery, html, css from treehouse [http://teamtreehouse.com/learning-adventures/learn-javascript-and-jquery](http://teamtreehouse.com/learning-adventures/learn-javascript-and-jquery)
+- learn jQuery from codeacademy : [http://www.codecademy.com/tracks/jquery](http://www.codecademy.com/tracks/jquery)
+- jquery fundamental :[http://jqfundamentals.com/](http://jqfundamentals.com/)
+
+
+
 ## Tentang UI dan UX ##
 
 - UX : [http://uxapprentice.com](http://uxapprentice.com)
