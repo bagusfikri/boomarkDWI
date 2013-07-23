@@ -7,7 +7,7 @@
 - Teamtreehouse : [http://teamtreehouse.com](http://teamtreehouse.com)
 
 ## Link Tutorial gratis dan blog ttg web designer: ##
-	
+
 - Webdesign tutsplus : [http://webdesign.tutsplus.com](http://webdesign.tutsplus.com)
 - Codrops : [http://tympanus.net/codrops](http://tympanus.net/codrops)
 - Smashing Magazine : [http://smashingmagazine.com](http://smashingmagazine.com)
@@ -15,21 +15,20 @@
 - 1stwebdesigner : [http://1stwebdesigner.com](http://1stwebdesigner.com)
 - webdesignerdepot : [http://webdesignerdepot.com](http://webdesignerdepot.com)
 
-## Twitter Bootstrap ##
-- [Bootstrap Hero](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
+
 
 ## Specific tutorial and for beginer ##
 
 **PSD to HTML**
 
 - Webdesigntuts+ From Photoshop to Wordpress : [link](http://webdesign.tutsplus.com/sessions/adaptive-blog-theme-from-photoshop-to-wordpress/)   *bagian lanjutan wordpressnya ada di wp.tutsplus.com
-- Design a Warm, Cheerful Website Interface in Adobe Photoshop : [Link](http://webdesign.tutsplus.com/tutorials/design-a-warm-cheerful-website-interface-in-adobe-photoshop/)  
+- Design a Warm, Cheerful Website Interface in Adobe Photoshop : [Link](http://webdesign.tutsplus.com/tutorials/design-a-warm-cheerful-website-interface-in-adobe-photoshop/)
 - Convert a Warm, Cheerful Web Design to HTML and CSS : [link](http://net.tutsplus.com/tutorials/site-builds/convert-a-warm-cheerful-web-design-to-html-and-css/)
 - Create a Sleek, Corporate Web Design :
 	- [Day 1](http://webdesign.tutsplus.com/tutorials/create-a-sleek-corporate-web-design-part-13/)
 	- [Day 2](http://webdesign.tutsplus.com/tutorials/complete-websites/create-a-sleek-corporate-web-design-hd-video-series-day-2/)
 	- [Day 3](http://webdesign.tutsplus.com/tutorials/complete-websites/create-a-sleek-corporate-web-design-hd-video-series-day-3/)
-	- [Day 4](http://webdesign.tutsplus.com/tutorials/complete-websites/create-a-sleek-corporate-web-design-hd-video-series-day-4/) 
+	- [Day 4](http://webdesign.tutsplus.com/tutorials/complete-websites/create-a-sleek-corporate-web-design-hd-video-series-day-4/)
 
 ** jQuery**
 - VIDEO - 30 days learning jQuery from tutsplus : [http://learnjquery.tutsplus.com/](http://learnjquery.tutsplus.com/)
@@ -46,6 +45,26 @@
 - UX : [http://uxapprentice.com](http://uxapprentice.com)
 - UI : [http://goodui.org](http://goodui.org)
 
+### CSS Framework ###
+- [Adobe Topcoat](http://topcoat.io/)
+- [Amazium](http://www.amazium.co.uk/)
+- [Base](http://matthewhartman.github.io/base/)
+- [Blueprint](http://www.blueprintcss.org/)
+- [CSSHórus](http://csshor.us/)
+- [GroundworkCSS](http://groundwork.sidereel.com/)
+- [Gumby](http://gumbyframework.com/)
+- [HTML KickStart](http://www.99lime.com/elements/)
+- [Ivory](http://weice.in/ivory/)
+- [Kube](http://imperavi.com/kube/)
+- [Rock Hammer](http://malarkey.github.io/Rock-Hammer/)
+- [Skeleton](http://www.getskeleton.com/)
+- [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
+- [Yahoo! PureCSS](http://purecss.io/)
+- [YAML CSS Framework](http://www.yaml.de/)
+- [Zurb Foundation](http://foundation.zurb.com/)
+
+#### Twitter Bootstrap Resources ####
+- [Bootstrap Hero](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
 
 **Ebook**
 
@@ -53,26 +72,26 @@
 
 ## Resources
 
-- Freebies from blog : 
-	- Webdesignerdepot 
+- Freebies from blog :
+	- Webdesignerdepot
 
 ------------
 
-- Free Image : 
+- Free Image :
 	- Unsplash : [unsplash.com](http://unsplash.com) Free Image HD per 10 Days
-	- Compfight : [http://compfight.com](http://compfight.com "Compfight") 
+	- Compfight : [http://compfight.com](http://compfight.com "Compfight")
 	- Graphicriver : [http://graphicriver.net](http://graphicriver.net) note : ini cuma sebulan sekali gratisannnya.
 
 ----------
 
-- Free Icon : 
+- Free Icon :
 	- Gemicon  : [gemicon.net](gemicon.net)
 	- Entypo : [http://www.entypo.com/](http://www.entypo.com/)
 
 ----------
 
 - Free UI :
-	- Designmodo : [Flat Free UI](http://designmodo.com/flat-free/)  
+	- Designmodo : [Flat Free UI](http://designmodo.com/flat-free/)
 	- Free Button UI : [http://bit.ly/11etR68](http://bit.ly/11etR68)
 
 -------
