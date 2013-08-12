@@ -85,8 +85,9 @@
 ----------
 
 - Free Icon :
-	- Gemicon  : [gemicon.net](gemicon.net)
+	- Gemicon  : [gemicon.net](http://gemicon.net)
 	- Entypo : [http://www.entypo.com/](http://www.entypo.com/)
+	- Font Awesome : [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
 ----------
 
