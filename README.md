@@ -84,6 +84,11 @@
 
 ----------
 
+- Free Pattern :
+	- SubtlePatterns : [http://subtlepatterns.com/](http://subtlepatterns.com/)
+
+----------
+
 - Free Icon :
 	- Gemicon  : [gemicon.net](http://gemicon.net)
 	- Entypo : [http://www.entypo.com/](http://www.entypo.com/)
