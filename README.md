@@ -97,5 +97,6 @@
 -------
 
 - Long shadow generator : [http://codepen.io/awesomephant/pen/mAxHz](http://codepen.io/awesomephant/pen/mAxHz "Link")
+- Mobile & Gadget Preview : [http://placeit.breezi.com](http://placeit.breezi.com)
 
 sabar ya tiap hari ditambah teruuuus~
