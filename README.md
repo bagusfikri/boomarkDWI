@@ -69,6 +69,7 @@
 **Ebook**
 
 - Ebook Belajar HTML & CSS by ariona : [link](http://www.ariona.net/ebook-belajar-html-dan-css/)
+- How to get client for freelance web designer by bagusfikri : [www.slideshare.net/FikriYuliono/how-to-get-client-bagusfikri](www.slideshare.net/FikriYuliono/how-to-get-client-bagusfikri "How to get client")
 
 ## Resources
 
