@@ -19,7 +19,7 @@
 
 ## Specific tutorial and for beginer ##
 
-**PSD to HTML**
+### PSD to HTML ###
 
 - Webdesigntuts+ From Photoshop to Wordpress : [link](http://webdesign.tutsplus.com/sessions/adaptive-blog-theme-from-photoshop-to-wordpress/)   *bagian lanjutan wordpressnya ada di wp.tutsplus.com
 - Design a Warm, Cheerful Website Interface in Adobe Photoshop : [Link](http://webdesign.tutsplus.com/tutorials/design-a-warm-cheerful-website-interface-in-adobe-photoshop/)
@@ -30,7 +30,8 @@
 	- [Day 3](http://webdesign.tutsplus.com/tutorials/complete-websites/create-a-sleek-corporate-web-design-hd-video-series-day-3/)
 	- [Day 4](http://webdesign.tutsplus.com/tutorials/complete-websites/create-a-sleek-corporate-web-design-hd-video-series-day-4/)
 
-** jQuery**
+### jQuery ###
+
 - VIDEO - 30 days learning jQuery from tutsplus : [http://learnjquery.tutsplus.com/](http://learnjquery.tutsplus.com/)
 - VIDEO - try jQuery from codeschool : [http://www.codeschool.com/courses/try-jquery](http://www.codeschool.com/courses/try-jquery)
 - VIDEO -learn jQuery from appendto : [http://learn.appendto.com/](http://learn.appendto.com/)
@@ -63,10 +64,10 @@
 - [YAML CSS Framework](http://www.yaml.de/)
 - [Zurb Foundation](http://foundation.zurb.com/)
 
-#### Twitter Bootstrap Resources ####
+### Twitter Bootstrap Resources ###
 - [Bootstrap Hero](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
 
-**Ebook**
+### Ebook ###
 
 - Ebook Belajar HTML & CSS by ariona : [link](http://www.ariona.net/ebook-belajar-html-dan-css/)
 - How to get client for freelance web designer by bagusfikri : [www.slideshare.net/FikriYuliono/how-to-get-client-bagusfikri](www.slideshare.net/FikriYuliono/how-to-get-client-bagusfikri "How to get client")
