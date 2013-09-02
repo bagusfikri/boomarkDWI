@@ -46,6 +46,11 @@
 - UX : [http://uxapprentice.com](http://uxapprentice.com)
 - UI : [http://goodui.org](http://goodui.org)
 
+### CSS Coding Tips ###
+
+- [Idiomatic-CSS](https://github.com/necolas/idiomatic-css) oleh @necolas
+- [Object Oriented CSS](https://github.com/stubbornella/oocss-code-standards) oleh @stubbornella
+
 ### CSS Framework ###
 - [Adobe Topcoat](http://topcoat.io/)
 - [Amazium](http://www.amazium.co.uk/)
@@ -66,6 +71,10 @@
 
 ### Twitter Bootstrap Resources ###
 - [Bootstrap Hero](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
+
+### Responsive Web Design ###
+
+- [This is Responsive](http://bradfrost.github.io/this-is-responsive/index.html) by @bradfrost
 
 ### Ebook ###
 
