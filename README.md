@@ -78,10 +78,11 @@
 
 ------------
 
-- Free Image :
+- Free Image / Photostock:
 	- Unsplash : [unsplash.com](http://unsplash.com) Free Image HD per 10 Days
 	- Compfight : [http://compfight.com](http://compfight.com "Compfight")
 	- Graphicriver : [http://graphicriver.net](http://graphicriver.net) note : ini cuma sebulan sekali gratisannnya.
+	- Pixabay : [http://pixabay.com](http://pixabay.com) Gratis fotostock, dari resolusi kecil sampe full HD bahkan lebih
 
 ----------
 
