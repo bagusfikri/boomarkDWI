@@ -119,4 +119,12 @@
 - Long shadow generator : [http://codepen.io/awesomephant/pen/mAxHz](http://codepen.io/awesomephant/pen/mAxHz "Link")
 - Mobile & Gadget Preview : [http://placeit.breezi.com](http://placeit.breezi.com)
 
+------------
+
+- Color Scheme Generator:
+	- Color Scheme Designer : [colorschemedesigner.com](http://colorschemedesigner.com/) Skema warna berdasar colorspace. Pratampil untuk pengguna buta warna
+	- Adobe Kuler : [kuler.adobe.com](https://kuler.adobe.com/)
+
+----------
+
 sabar ya tiap hari ditambah teruuuus~
