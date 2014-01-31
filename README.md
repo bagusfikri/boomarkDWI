@@ -70,6 +70,7 @@
 - [Yahoo! PureCSS](http://purecss.io/)
 - [YAML CSS Framework](http://www.yaml.de/)
 - [Zurb Foundation](http://foundation.zurb.com/)
+- [Golden Gridlet System](http://goldengridsystem.com)
 
 ### Twitter Bootstrap Resources ###
 - [Bootstrap Hero](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
@@ -91,10 +92,13 @@
 ------------
 
 - Free Image / Photostock:
-	- Unsplash : [unsplash.com](http://unsplash.com) Free Image HD per 10 Days
+	- Unsplash : [unsplash.com](http://unsplash.com)
+            - Free Image HD per 10 Days
 	- Compfight : [http://compfight.com](http://compfight.com "Compfight")
-	- Graphicriver : [http://graphicriver.net](http://graphicriver.net) note : ini cuma sebulan sekali gratisannnya.
-	- Pixabay : [http://pixabay.com](http://pixabay.com) Gratis fotostock, dari resolusi kecil sampe full HD bahkan lebih
+	- Graphicriver : [http://graphicriver.net](http://graphicriver.net)
+	    - Note : ini cuma sebulan sekali gratisannnya.
+	- Pixabay : [http://pixabay.com](http://pixabay.com)
+            - Gratis fotostock, dari resolusi kecil sampe full HD bahkan lebih
 
 ----------
 
@@ -107,6 +111,11 @@
 	- Gemicon  : [gemicon.net](http://gemicon.net)
 	- Entypo : [http://www.entypo.com/](http://www.entypo.com/)
 	- Font Awesome : [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+	- Icomoon: [Icomoon App](http://icomoon.io/)
+	    - Custom Icon build,
+	    - upload icon sendiri,
+	    - generate Font, SVG, atau CSS sprite
+
 
 ----------
 
@@ -118,5 +127,15 @@
 
 - Long shadow generator : [http://codepen.io/awesomephant/pen/mAxHz](http://codepen.io/awesomephant/pen/mAxHz "Link")
 - Mobile & Gadget Preview : [http://placeit.breezi.com](http://placeit.breezi.com)
+
+------------
+
+- Color Scheme Generator:
+	- Color Scheme Designer : [colorschemedesigner.com](http://colorschemedesigner.com/)
+	    - Skema warna berdasar colorspace.
+        - Pratampil untuk pengguna buta warna.
+	- Adobe Kuler : [kuler.adobe.com](https://kuler.adobe.com/)
+
+----------
 
 sabar ya tiap hari ditambah teruuuus~
